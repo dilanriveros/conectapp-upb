@@ -25,7 +25,7 @@ ConectAPP UPB es una aplicación que permite a los estudiantes de la Universidad
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd conectapp-upb
+   cd conectapp-Latam
    ```
 
 3. Abre el archivo `index.html` en tu navegador.
